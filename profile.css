@@ -31,10 +31,6 @@
     object-fit: cover;
 }
 
-.profile-info{
-    display: flex;
-}
-
 .profile-name{
     font-size: 32px;
     margin-bottom: 8px;
